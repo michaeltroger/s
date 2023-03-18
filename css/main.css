@@ -28,4 +28,6 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
+/* custom */
 li { font-size: 1.5em; }
+figure { margin-inline-start: 0; margin-inline-end: 0;}
